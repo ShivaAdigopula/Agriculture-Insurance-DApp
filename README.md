@@ -1,4 +1,4 @@
-# Decentralized Agricultural Insurance Solution
+# Decentralized Agriculture Insurance Solution
 
 
 ## Installation
